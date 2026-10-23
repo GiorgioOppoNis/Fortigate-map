@@ -1,0 +1,10 @@
+# Ignore OS-specific files
+DS_Store
+Thumbs.db
+desktop.ini
+# Ignore log files
+*.log
+# Ignore node_modules directory
+node_modules/
+# Ignore Python virtual environments
+venv/
